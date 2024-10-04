@@ -1,0 +1,4 @@
+0 Higher
+1 Lower
+2 Correct
+3 Neutral
